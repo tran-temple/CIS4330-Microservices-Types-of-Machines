@@ -13,7 +13,7 @@
 - Being self-contained, they eliminate dependencies and conflicts. 
 
 **When you might select physical machines over virtual machines?**
-- As for the performance factor, if organizations work with a large amount of data which needs to be constantly processed, and organizations running services and operations which require highly productive computing hardware for their implementation. Physical servers are far more powerful and efficient than VMs, due to the fact that VMs are prone to performance issues as a result of an overflow of virtual servers in a physical machine. 
+- As for the performance factor, if organizations work with a large amount of data which needs to be constantly processed, and organizations running services and operations which require highly productive computing hardware for their implementation, Physical servers are far more powerful and efficient than VMs, due to the fact that VMs are prone to performance issues as a result of an overflow of virtual servers in a physical machine. 
 
 ### After researching more on the internet, the following is how cloud would aid microservices:
 
